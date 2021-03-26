@@ -1,4 +1,7 @@
 ## Astroz Music Bot
+Astroz Music just awesome. The main reason is it stays in vc for 24/7 and online. It responds instantly and a soundcard it's shown
+
+## FEATURES
 
 •
 

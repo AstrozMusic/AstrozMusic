@@ -13,14 +13,14 @@
 
 ## ASTROZ MUSIC RELATED LINK
 
-•  [Astroz 1](https://discord.com/oauth2/authorize?client_id=802423717316919297&scope=bot&permissions=8)
+•  [Astroz 1 Invite Link](https://discord.com/oauth2/authorize?client_id=802423717316919297&scope=bot&permissions=8)
 
-•  [Astroz 2](https://discord.com/oauth2/authorize?client_id=812008093655105597&scope=bot&permissions=8)
+•  [Astroz 2 Invite Link](https://discord.com/oauth2/authorize?client_id=812008093655105597&scope=bot&permissions=8)
 
-•  [Astroz 3](https://discord.com/oauth2/authorize?client_id=803552574707597312&scope=bot&permissions=8)
+•  [Astroz 3 Invite Link](https://discord.com/oauth2/authorize?client_id=803552574707597312&scope=bot&permissions=8)
 
-•  [Vote Astroz](https://top.gg/bot/802423717316919297/vote)
+•  [Vote Astroz Music Bot](https://top.gg/bot/802423717316919297/vote)
 
-•  [Website](https://astrozmusic.tk/)
+•  [Website Link](https://astrozmusic.tk/)
 
 ![standard_9](https://user-images.githubusercontent.com/81439903/112682093-a0901300-8e95-11eb-8cb7-1cd6fcd43740.gif)

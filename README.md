@@ -3,7 +3,7 @@ Astroz Music just awesome. The main reason is it stays in vc for 24/7 and online
 
 ## FEATURES
 
-• BEST MUSIC BOT
+• **BEST MUSIC BOT**
 
 • 20+ COMMANDS
 
